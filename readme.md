@@ -11,6 +11,12 @@ This repository serves as storage for a collection of academic papers and/or the
 
 ## Computer Vision
 
-|                           Paper                          	|      Author      	|                                           Link                                          	| Read 	| Notes |
+|                           Paper                          	|      Author      	|                                           Link                                          	| Read | Notes |
 |:--------------------------------------------------------:	|:----------------:	|:---------------------------------------------------------------------------------------:	| :------:| :-----: |
 | 3D estimation and view synthesis in wide-baseline stereo 	| Cédric VERLEYSEN 	| [uclouvain](https://sites.uclouvain.be/ispgroup/uploads//Main/PHDCVerleysen_thesis.pdf) 	| [ ]  	|   |
+
+## Drones
+
+|                           Paper                          	|      Author      	|                                           Link                                          	| Read | Notes |
+|:--------------------------------------------------------:	|:----------------:	|:---------------------------------------------------------------------------------------:	| :------:| :-----: |
+| The Urban Last Mile Problem: Autonomous Drone Delivery to Your Balcony 	| Brunner et al 	| [arxiv](https://arxiv.org/abs/1809.08022f), [github](https://github.com/TheRealKaufmann/autonomous-drone) 	| [ ]  	|   |
